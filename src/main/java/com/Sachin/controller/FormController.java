@@ -1,4 +1,4 @@
-package com.Shakthi.controller;
+package com.Sachin.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -9,10 +9,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.Shakthi.entity.EventsEntity;
-import com.Shakthi.entity.Form;
-import com.Shakthi.serviceInterface.EventServiceInterface;
-import com.Shakthi.serviceInterface.FormService;
+import com.Sachin.entity.EventsEntity;
+import com.Sachin.entity.Form;
+import com.Sachin.serviceInterface.EventServiceInterface;
+import com.Sachin.serviceInterface.FormService;
 
 import jakarta.servlet.http.HttpSession;
 

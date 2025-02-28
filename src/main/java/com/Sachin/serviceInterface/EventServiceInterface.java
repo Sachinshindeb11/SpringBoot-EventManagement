@@ -1,9 +1,9 @@
-package com.Shakthi.serviceInterface;
+package com.Sachin.serviceInterface;
 
 import java.util.List;
 
-import com.Shakthi.entity.EventsEntity;
-import com.Shakthi.entity.Form;
+import com.Sachin.entity.EventsEntity;
+import com.Sachin.entity.Form;
 
 public interface EventServiceInterface {
 

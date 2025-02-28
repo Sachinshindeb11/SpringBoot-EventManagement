@@ -1,4 +1,4 @@
-package com.Shakthi.controller;
+package com.Sachin.controller;
 
 import java.util.List;
 
@@ -11,10 +11,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.Shakthi.entity.AttendiesEntity;
-import com.Shakthi.entity.EventsEntity;
-import com.Shakthi.serviceImplementation.AttendiesServiceImpl;
-import com.Shakthi.serviceInterface.EventServiceInterface;
+import com.Sachin.entity.AttendiesEntity;
+import com.Sachin.entity.EventsEntity;
+import com.Sachin.serviceImplementation.AttendiesServiceImpl;
+import com.Sachin.serviceInterface.EventServiceInterface;
 
 import jakarta.servlet.http.HttpSession;
 

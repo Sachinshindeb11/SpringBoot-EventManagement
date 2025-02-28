@@ -1,11 +1,11 @@
-package com.Shakthi.repository;
+package com.Sachin.repository;
 
 import java.util.Optional;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.Shakthi.entity.EventsEntity;
+import com.Sachin.entity.EventsEntity;
 
 import jakarta.transaction.Transactional;
 

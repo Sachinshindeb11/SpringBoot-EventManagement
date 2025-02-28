@@ -1,9 +1,9 @@
-package com.Shakthi.serviceInterface;
+package com.Sachin.serviceInterface;
 
 import java.util.List;
 
-import com.Shakthi.entity.AttendiesEntity;
-import com.Shakthi.entity.RegisterEntity;
+import com.Sachin.entity.AttendiesEntity;
+import com.Sachin.entity.RegisterEntity;
 
 
 public interface AttendiesService {

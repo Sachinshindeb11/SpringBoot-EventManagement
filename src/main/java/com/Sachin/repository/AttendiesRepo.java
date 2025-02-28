@@ -1,10 +1,9 @@
-package com.Shakthi.repository;
+package com.Sachin.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-
-import com.Shakthi.entity.AttendiesEntity;
-import com.Shakthi.entity.RegisterEntity;
+import com.Sachin.entity.AttendiesEntity;
+import com.Sachin.entity.RegisterEntity;
 
 import jakarta.transaction.Transactional;
 

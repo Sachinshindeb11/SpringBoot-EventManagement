@@ -1,11 +1,11 @@
-package com.Shakthi.repository;
+package com.Sachin.repository;
 
 import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
-import com.Shakthi.entity.TaskEntity;
+import com.Sachin.entity.TaskEntity;
 
 public interface TaskRepo extends JpaRepository<TaskEntity, Integer>{
 	

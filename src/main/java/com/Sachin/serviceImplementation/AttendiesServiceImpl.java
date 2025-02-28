@@ -1,14 +1,14 @@
-package com.Shakthi.serviceImplementation;
+package com.Sachin.serviceImplementation;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.Shakthi.entity.AttendiesEntity;
-import com.Shakthi.entity.RegisterEntity;
-import com.Shakthi.repository.AttendiesRepo;
-import com.Shakthi.serviceInterface.AttendiesService;
+import com.Sachin.entity.AttendiesEntity;
+import com.Sachin.entity.RegisterEntity;
+import com.Sachin.repository.AttendiesRepo;
+import com.Sachin.serviceInterface.AttendiesService;
 
 @Service
 public class AttendiesServiceImpl implements AttendiesService{

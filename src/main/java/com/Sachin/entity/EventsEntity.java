@@ -1,4 +1,4 @@
-package com.Shakthi.entity;
+package com.Sachin.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
